@@ -1,0 +1,16 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+.vs/
+bin/
+obj/
+*.suo
+*.user
+
+Thumbs.db
+Desktop.ini
+.DS_Store
